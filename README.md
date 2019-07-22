@@ -1,5 +1,5 @@
 ## patients-database
-This is the first of two graph databases and graph database applications that I've created. This one is more of a rough draft for the upcoming graph database that utilizes MIT's MIMIC III demo database.
+This is the first of two graph databases and graph database applications that I've created. This one is more of a rough draft for the upcoming graph database that utilizes MIT's MIMIC III demo database. The main code is located in the neo4j/main folder.
 
 The Patient Database uses Neo4J and has two functions - the first creates a sample graph database using Neo4J's embedded Java library. Then, after creating the graph database, it opens a Java application that allows users to easily query the graph database.
 
