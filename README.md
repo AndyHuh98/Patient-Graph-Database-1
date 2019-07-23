@@ -1,5 +1,5 @@
 ## Limitations
-The graph database structure itself is in a half-baked state, I've decided to start using an actual medical database instead of a 6 patient excel file, so the changes that were being made in progress on this graph database are not completely finished. The excel file will also be provided in the GitHub. New graph database updates will be pushed to Patient-Graph-Database-2, which will utilize MIMIC III database provided by MIT.
+The graph database structure itself is in a half-baked state, I've decided to start using an actual (de-identified) medical database instead of a 6 patient excel file, so the changes that were being made in progress on this graph database are not completely finished. The excel file will also be provided in the GitHub. New graph database updates will be pushed to Patient-Graph-Database-2, which will utilize MIMIC III database provided by MIT.
 
 ## patients-database
 This is the first of two graph databases and graph database applications that I've created. This one is more of a rough draft for the upcoming graph database that utilizes MIT's MIMIC III demo database. The main code is located in the neo4j/main folder.
