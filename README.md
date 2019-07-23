@@ -5,6 +5,12 @@ The Patient Database uses Neo4J and has two functions - the first creates a samp
 
 Graph Database 2 will optimize the connections between data points (and utilize far more data) than this first graph database, as well as provide a cleaner and even easier way to query the data.
 
+## The Graph
+![alt text](https://i.imgur.com/S5YRuqw.png)
+
+## The Application
+![alt text](https://i.imgur.com/vuxdNVJ.png)
+
 ## Motivation
 This first patient database is part of learning about Graph Databases and potential utilizations for them.
 
